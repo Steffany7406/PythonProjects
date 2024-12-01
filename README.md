@@ -1,7 +1,8 @@
 # PythonProjects
 A set of Python projects for portfolio 
-
 - Status = Under Change
+
+See More:
 - Biblio Python = (https://github.com/Steffany7406/PythonBiblio)
 - Python Exercices = (https://github.com/Steffany7406/PythonExercices)
 
